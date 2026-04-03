@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_FONT_CDN
+name: alice-font-cdn
 description: ALICE Font CDN
 type: application
 version: 0.1.0
